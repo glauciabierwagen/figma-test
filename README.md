@@ -7,4 +7,4 @@
 
 ## Extra materials 
 
-- [How to Convert Figma to HTML] (https://www.youtube.com/watch?v=ykcRRhrAYPw)
+- [How to Convert Figma to HTML](https://www.youtube.com/watch?v=ykcRRhrAYPw)
