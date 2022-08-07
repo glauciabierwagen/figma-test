@@ -1,7 +1,7 @@
 # Figma Test
 <b> Course IT Women - Front End </b>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/98116061/183284230-320971fa-b082-463b-b9ce-b3ba516969a4.png"/>
+  <img src="https://github.com/glauciabierwagen/figma-test/blob/main/images/readmeimage.png"/>
 </p>
 
 ## Guidelines
