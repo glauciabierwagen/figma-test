@@ -1,5 +1,8 @@
 # Figma Test
-<b> Course IT Women - Front End </b> 
+<b> Course IT Women - Front End </b>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/98116061/183284230-320971fa-b082-463b-b9ce-b3ba516969a4.png"/>
+</p>
 
 ## Guidelines
 - Throught of the Figma's design experiment with trying to recreate landing pages in HTML and CSS.  
